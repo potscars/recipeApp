@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<RecipeTypes>
+    <item>
+        <id>1</id>
+        <name name="breakfast">Breakfast</name>
+    </item>
+    <item>
+        <id>2</id>
+        <name name="lunch">Lunch</name>
+    </item>
+    <item>
+        <id id="3">3</id>
+        <name name="dinner">Dinner</name>
+    </item>
+    <item>
+        <id id="4">4</id>
+        <name name="appetizer">Appetizer</name>
+    </item>
+    <item>
+        <id id="5">5</id>
+        <name name="salad">Salad</name>
+    </item>
+    <item>
+        <id>6</id>
+        <name name="main-course">Main-course</name>
+    </item>
+    <item>
+        <id id="7">7</id>
+        <name name="side-dish">Side-dish</name>
+    </item>
+    <item>
+        <id id="8">8</id>
+        <name name="baked-goods">Baked-goods</name>
+    </item>
+</RecipeTypes>
